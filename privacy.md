@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # Privacy Policy
 
-**Publisher:** TADN Technology Solutions
+**Publisher:** TADN Technology Limited
 **App:** Fast File Transfer for Android, Android TV, Windows and Linux
 **Effective date:** 25 October 2026
 
@@ -15,7 +15,7 @@ Fast File Transfer moves your files between your own devices, or between your de
 
 - We **don't collect, store, sell or share** any personal data.
 - The app has **no accounts, no ads, no analytics, no tracking and no crash reporting**.
-- Files you send go **directly** to the device or server you choose, **end-to-end encrypted**. They never pass through servers run by TADN Technology Solutions.
+- Files you send go **directly** to the device or server you choose, **end-to-end encrypted**. They never pass through servers run by TADN Technology Limited.
 
 ## What the app processes, and where it stays
 
@@ -36,7 +36,7 @@ The app's settings and keys are kept in its private storage and are excluded fro
 - **To the SSH/SFTP server you enter**, when you connect to it.
 - **Name lookups (DNS):** when you connect to a server by name, the name is looked up through your network's DNS. On Android, if that is unavailable, the app asks a public resolver (Cloudflare `1.1.1.1` or Google `8.8.8.8`) to look up **that server name only**.
 
-The app makes **no other connections**: it doesn't contact servers run by TADN Technology Solutions or any third party.
+The app makes **no other connections**: it doesn't contact servers run by TADN Technology Limited or any third party.
 
 ## Permissions (Android)
 
@@ -64,4 +64,4 @@ If this policy changes, the new version will be published at this address with a
 
 ## Contact
 
-TADN Technology Solutions â€” **privacy@YOUR-DOMAIN**
+TADN Technology Limited â€” **privacy@YOUR-DOMAIN**
